@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Jumanjidev
+- 👀 I’m interested in music, linguistics, games and coding...
+- 🌱 I’m currently learning Fullstack development with Java and Javascript...
+- 💞️ I’m looking to collaborate mainly on web applications with Front-end...
+
+<!---
+Jumanjidev/Jumanjidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
